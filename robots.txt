@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://magedperformance.com/sitemap.xml
